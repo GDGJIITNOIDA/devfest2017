@@ -1,0 +1,192 @@
+{
+  "url": "https://devest2017.firebaseapp.com/",
+  "startDate": "2016-09-09T09:00:00+03:00",
+  "endDate": "2016-09-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-89735155-2",
+    "dev": "UA-89735155-3"
+  },
+  "organizer": {
+    "name": "GDG JSS & JIIT"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#9c27b0",
+    "backgroundColor": "#9c27b0"
+  },
+  "firebase": {
+    "name": "devest2017",
+    "domain": "devest2017.firebaseapp.com",
+    "database": "https://devest2017.firebaseio.com",
+    "api": "AIzaSyDNrCazzhv5IYXbJcRZP7bIAwM3s06LGrk",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+    
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "dfua",
+  "disqusShortName": "hoverboard-gdg-x",
+  
+  "partnershipProposition": "http://devfest.gdgjss.in/partner",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "sponsors",
+      "permalink": "/sponsors/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "hackathon",
+      "permalink": "/hackathon/"
+    }
+  ],
+  "social": [
+    {
+      "name": "gplus",
+      "nickname": "GDGJSSNoida",
+      "url": "https://plus.google.com/+GDGJSSNoida"
+    },
+    {
+      "name": "gplus",
+      "nickname": "GDGJIITNoida",
+      "url": "https://plus.google.com/+GDGJIITNOIDA"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDG JSS",
+      "url": "https://www.facebook.com/gdgjss"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDG JIIT",
+      "url": "https://www.facebook.com/gdgjiitnoida"
+    }
+  ],
+  "location": {
+    "apiKey": "AIzaSyD6YMawC9G-GGd1k276XmGibZBxcmscYns",
+    "name": "JIIT, Noida",
+    "address": "Sector 62, Noida",
+    "link": "https://www.facebook.com/gdgjiitnoida",
+    "pointer": {
+      "latitude": 28.6304366,
+      "longitude": 77.3700554,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 28.6325769,
+      "longitude": 77.3864138
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+
+  "gallery": {
+    "photos": {
+      "big": "/images/backgrounds/gallery_1.jpg",
+      "small": [
+        "/images/backgrounds/gallery_2.jpg",
+        "/images/backgrounds/gallery_3.jpg"
+      ]
+    }
+},
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#9C27B0",
+        "backgroundImage": "/images/backgrounds/home_main.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+  
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+      "backgroundColor": "#03a9f4",
+      "fontColor": "#fff",
+      "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/speakers.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/GDG.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Cod of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "hackathon": {
+      "title": "Hackathon",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/hackathon.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "sponsors": {
+      "title": "Sponsors",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}

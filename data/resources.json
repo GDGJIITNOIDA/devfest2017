@@ -1,0 +1,134 @@
+{
+  "title": "GDG Noida DevFest Season 2017",
+  "description": "The biggest Google tech conference in Noida carefully crafted for you by GDG community! All about Android, Web and Cloud from the experts.",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November 11-12",
+  "locationAddressShort": "Jaypee Institute of Information Technology, Noida",
+  "motto": "The biggest tech conference and Google event in Noida.",
+  "c4p": "Become a speaker",
+  "buyTicket": "Register",
+  "backToTop": "Back to top",
+  "subscribe": "Subscribe",
+  "yourEmail": "Your email",
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "contactUs": "Contact us",
+  "ticketsTitle": "Tickets",
+  "ticketsDetails": "Tickets grant access to all conference sessions. And these are absolutely free of cost.",
+  "close": "Close",
+  "soldOutTickets": "Sold Out",
+  "socialTitle": "Social",
+  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "beforeHashtag": "What's up",
+  "clickToViewPhotos":"",  
+  "partners": "Sponsors",
+  "becomePartner": "Become a partner",
+
+  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleViewAll": "View All Speakers",
+  "action": "See how it was",
+  "locationTitle": "Jaypee Institute of Information Technology, Noida",
+  "locationDescription": "Jaypee Institute of Information Technology (JIIT) Noida is the location for the DevFest 2017. All the sessions and the hackathon will be hosted here",
+  "locationAddress": "A-10, Sector - 62, Noida, UP",
+  "organizerTitle": "Organizer",
+  "aboutOrganizers": "<a href='http://gdgjss.in' target='_blank'>GDG JSS Noida</a> and <a href='https://www.facebook.com/gdgjiitnoida/' target='_blank'>GDG JIIT Noida</a> are proud organizers of DevFest Noida 2017.",
+  "openTeamPage": "Open team page",
+  "whatIsGdg": "What is GDG?",
+  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+  "readMore": "Read more",
+  "copyLink": "Copy link",
+  "filteredBy": "filtered by",
+  "clearAll": "Clear all",
+  "filter": "Filter",
+  "latestNews": "Latest news",
+  "continueReading": "Continue reading",
+  "viewPresentation": "View presentation",
+  "viewVideo": "View video",
+  "skills": "Skills",
+  "share": "Share",
+  "shareWith": "Share with",
+  "signIn": "",
+  "signOut": "",
+  "mySchedule": "My Schedule",
+  "browseMore": "Browse more events",
+  "youShouldSignInSessions": "Sign in to save sessions",
+  "youShouldSignInRating": "Sign in to rate sessions",
+  "offlineMessage": "You are offline",
+  "removedFromSchedule": "Removed from My Schedule",
+  "addedToSchedule": "Added to My Schedule",
+  "rateSession": "Rate session",
+  "footerBlocks": [
+    {
+      "title": "For visitors",
+      "links": [
+        {
+          "text": "Team",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "/cod/",
+          "newTab": false
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "GDG JSS Noida",
+          "url": "https://developers.google.com/groups/chapter/108501396545659745683/",
+          "newTab": true
+        },
+        {
+          "text": "GDG JIIT NOIDA",
+          "url": "https://developers.google.com/groups/chapter/112169310231629853876/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "For Partners",
+      "links": [
+        {
+          "text": "Partnership Proposition",
+          "url": "http://devfest.gdgjss.in/partner",
+          "newTab": true
+        },
+        {
+          "text": "Media Kit",
+          "url": "http://devfest.gdgjss.in/media-kit",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgnoidadevfest@gmail.com",
+        "url": "mailto:gdgnoidadevfest@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "Team",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) JSS Noida](http://gdgjss.in/) and  [JIIT Noida](https://www.facebook.com/gdgjiitnoida/) - are open and volunteer geek communities that creates exciting projects and share experiences about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with our audience to boost development of IT.",
+  "statistics": [
+    {
+      "counter": "400+",
+      "caption": "Attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "Days"
+    },
+    {
+      "counter": 2,
+      "caption": "Sessions"
+    },
+    {
+      "counter": "12hr",
+      "caption": "Hackathon"
+    }
+  ]
+}
